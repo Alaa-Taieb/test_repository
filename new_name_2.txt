@@ -1,2 +1,4 @@
 
 This is the new line
+
+This change was committed through Vs Code
